@@ -1,0 +1,8 @@
+[{<<"erlesy">>,
+  {git,"https://github.com/lrascao/erlesy.git",
+       {ref,"8dce96b309d20e94ccc08ad4e2ada45f66dad2b0"}},
+  0},
+ {<<"jsx">>,
+  {git,"https://github.com/talentdeficit/jsx.git",
+       {ref,"45ffea21a6863c58fb7da1f937e868916ff68b27"}},
+  1}].

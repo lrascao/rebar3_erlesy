@@ -1,0 +1,16 @@
+{application, rebar3_erlesy, [
+        {description, "A rebar3 gpb for generating finite state machines of your choosing"},
+        {vsn, "1.0.0"},
+        {registered, []},
+        {applications,
+            [
+                kernel,
+                stdlib,
+                erlesy
+            ]},
+        {env,[]},
+        {modules, []},
+        {maintainers, ["Luis Rascao"]},
+        {licenses, ["MIT"]},
+        {links, [{"Github", "https://github.com/lrascao/rebar3_erlesy"}]}
+    ]}.
