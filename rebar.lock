@@ -1,8 +1,8 @@
-[{<<"erlesy">>,
-  {git,"https://github.com/lrascao/erlesy.git",
-       {ref,"8dce96b309d20e94ccc08ad4e2ada45f66dad2b0"}},
-  0},
- {<<"jsx">>,
-  {git,"https://github.com/talentdeficit/jsx.git",
-       {ref,"45ffea21a6863c58fb7da1f937e868916ff68b27"}},
-  1}].
+{"1.1.0",
+[{<<"erlesy">>,{pkg,<<"erlesy">>,<<"1.0.3">>},0},
+ {<<"jsx">>,{pkg,<<"jsx">>,<<"2.9.0">>},1}]}.
+[
+{pkg_hash,[
+ {<<"erlesy">>, <<"56B751B20C3374FA4791514FE2503F4AB9582F62A984C5568BB160625C4B77D3">>},
+ {<<"jsx">>, <<"D2F6E5F069C00266CAD52FB15D87C428579EA4D7D73A33669E12679E203329DD">>}]}
+].
